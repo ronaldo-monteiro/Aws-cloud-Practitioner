@@ -3,7 +3,7 @@
 Repositorio criado simplesmente para ajudar a todos 
 que desejam tirar a certificação AWS cloud practitioner.
 
-Seguem alguns links com vídeos da Escola da nuvem com revições para a prova.
+Seguem alguns links com vídeos da Escola da nuvem com revições para o exame de certificação.
 
 [Revisão AWS Cloud Practitioner - Domínio 1: Conceitos de Nuvem ](https://youtu.be/YU0yM6FPZFs)
 
