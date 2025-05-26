@@ -1,0 +1,44 @@
+### 📘 02-servicos-principais/resumo.md
+
+# Serviços Principais da AWS
+
+A AWS oferece centenas de serviços, mas alguns são considerados fundamentais para iniciantes na certificação Cloud Practitioner. Esta seção apresenta os principais:
+
+## 1. Amazon EC2 (Elastic Compute Cloud)
+Permite criar e gerenciar servidores virtuais (instâncias). É um dos serviços mais usados para hospedar aplicações.
+
+**Conceitos-chave:**
+- Tipos de instância (ex: t2.micro)
+- AMIs (Amazon Machine Images)
+- Modelos de preços (On-Demand, Reserved, Spot)
+- Auto Scaling e Elastic Load Balancing
+
+## 2. Amazon S3 (Simple Storage Service)
+Serviço de armazenamento de objetos altamente durável e escalável.
+
+**Conceitos-chave:**
+- Buckets e Objetos
+- Classes de Armazenamento (Standard, IA, Glacier)
+- Políticas de acesso e versionamento
+
+## 3. Amazon RDS (Relational Database Service)
+Serviço gerenciado de banco de dados relacional.
+
+**Conceitos-chave:**
+- Suporte a múltiplos mecanismos (MySQL, PostgreSQL, SQL Server, etc.)
+- Backups automáticos
+- Alta disponibilidade com Multi-AZ
+
+## 4. AWS Lambda
+Executa código sem precisar provisionar ou gerenciar servidores (Serverless).
+
+**Conceitos-chave:**
+- Executa em resposta a eventos
+- Custo baseado no número de execuções
+- Integrações com S3, DynamoDB, API Gateway
+
+## 5. Outros serviços úteis para a prova
+- **Amazon CloudFront** – CDN para distribuição de conteúdo
+- **Amazon DynamoDB** – Banco NoSQL gerenciado
+- **Amazon VPC** – Redes virtuais privadas
+- **AWS Elastic Beanstalk** – Plataforma para aplicações web
