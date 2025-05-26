@@ -1,0 +1,40 @@
+### 📘 01-introducao-aws/resumo.md
+
+# Introdução à AWS
+
+A Amazon Web Services (AWS) é a plataforma de nuvem mais amplamente adotada no mundo. Ela oferece mais de 200 serviços completos de data centers em todo o mundo.
+
+## O que é Computação em Nuvem?
+
+Computação em nuvem é a entrega sob demanda de recursos de TI pela internet com preços sob medida. Em vez de comprar, possuir e manter servidores físicos, você pode acessar serviços como poder computacional, armazenamento e bancos de dados sob demanda.
+
+## Modelos de Implantação de Nuvem
+
+- **Nuvem Pública**: Recursos fornecidos por terceiros pela internet (ex: AWS).
+- **Nuvem Privada**: Infraestrutura dedicada exclusivamente para uma organização.
+- **Nuvem Híbrida**: Combinação de nuvem pública e privada.
+
+## Modelos de Serviço
+
+- **IaaS (Infraestrutura como Serviço)**: Máquinas virtuais, redes, armazenamento.
+- **PaaS (Plataforma como Serviço)**: Ambiente para desenvolvimento e gerenciamento de aplicações.
+- **SaaS (Software como Serviço)**: Aplicações entregues pela internet (ex: Gmail).
+
+## Regiões e Zonas de Disponibilidade
+
+- **Regiões**: Áreas geográficas amplas onde a AWS possui data centers (ex: us-east-1).
+- **Zonas de Disponibilidade (AZs)**: Conjuntos de um ou mais data centers em cada região.
+
+## Benefícios da AWS
+
+- Pague conforme o uso
+- Escalabilidade e elasticidade
+- Alta disponibilidade
+- Segurança
+- Velocidade e agilidade
+- Presença global
+
+---
+
+> 💡 *Este resumo é apenas o começo. Consulte a [Documentação Oficial da AWS](https://docs.aws.amazon.com/pt_br/index.html) para aprofundar seus estudos.*
+
