@@ -67,7 +67,7 @@ Sinta-se à vontade para abrir issues, enviar PRs ou sugerir melhorias. Juntos, 
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [MIT License](LICENSE)
 
 ---
 
